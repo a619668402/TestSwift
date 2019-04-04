@@ -13,6 +13,7 @@ enum PersonType {
     case Children
     case Adult
     case Old
+    case Test
 }
 
 class TestBasicController: UIViewController {
